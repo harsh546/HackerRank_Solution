@@ -2,5 +2,5 @@
 
 |       Subdomain       |                 Challenge                 |                                             Solution                                              |
 | :-------------------: | :---------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-|     Certification      |      Multiset Implementation             |   [Solution](/Python/01%20-%20Introduction/01%20-%20Say%20'Hello,%20World!'%20With%20Python.py)   |
-|     Certification      |       String Transformation              |   [Solution](/Python/01%20-%20Introduction/02%20-%20Python%20If-Else.py)                          |
+|     Certification      |      Multiset Implementation             |   [Solution](https://github.com/harsh546/HackerRank_Solution/blob/main/Python/Python%20Certification/multiset.py)   |
+|     Certification      |       String Transformation              |   [Solution](https://github.com/harsh546/HackerRank_Solution/blob/main/Python/Python%20Certification/string_transformation.py)                          |
