@@ -1,7 +1,6 @@
 # Python: String Transformation
 import os
 
-
 def transformSentence(sentence):
     new_sentence = ""
     words_list = sentence.split(" ")
